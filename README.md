@@ -14,4 +14,6 @@
 <h3 align="center"><a href="https://reliable-sawine-d325a7.netlify.app/"><strong>Deployed link »</strong></a></h3>
   
   <br/>
+  
+  Spotify is a digital music, podcast, and video service that gives you access to millions of songs and other content from creators all over the world
 
