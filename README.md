@@ -17,3 +17,17 @@
   
   Spotify is a digital music, podcast, and video service that gives you access to millions of songs and other content from creators all over the world
 
+
+### Tools used on this project
+
+- Visual Studio Code
+
+
+## Contact
+
+If you want to contact me, you can reach me through below handles.
+
+[![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-singh-423264202/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohit24-code)
+
+© 2022 Rohit singh
